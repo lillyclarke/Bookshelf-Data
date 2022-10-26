@@ -59,7 +59,7 @@ class Bookshelf{
     }
 }
 
-let hungerGames = new Book('blah', 'cool', ['sure', 'works']);
+//let hungerGames = new Book('blah', 'cool', 'sure', 'works');
 
 let bookshelf = new Bookshelf();
 
