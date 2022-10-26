@@ -1,0 +1,23 @@
+/*#bookShelf{
+    border: solid black;
+    overflow: scroll;
+    height: 50rem;
+    width: 100%;
+}*/
+
+div{
+    background-image: url("/library.jpg");
+}
+
+body{
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#bookShelf{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
